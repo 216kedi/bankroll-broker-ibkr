@@ -1,0 +1,14 @@
+# MySQL Web Query Interface - Python Dependencies
+
+# Web Framework
+Flask==3.0.0
+flask-cors==4.0.0
+
+# MySQL Database Driver
+PyMySQL==1.1.0
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# Production Server (Optional)
+gunicorn==21.2.0
